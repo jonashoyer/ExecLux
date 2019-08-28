@@ -1,0 +1,37 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/lab": "^3.0.0-alpha.30",
+    "@material-ui/styles": "^3.0.0-alpha.10",
+    "axios": "^0.18.1",
+    "chart.js": "^2.8.0",
+    "clsx": "^1.0.4",
+    "moment": "^2.24.0",
+    "react": "^16.8.6",
+    "react-chartjs-2": "^2.7.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^3.0.1",
+    "react-swipeable-views": "^0.13.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "proxy": "http://localhost:3001"
+}
