@@ -8,3 +8,5 @@ Exec Lux manages:
  - Notes
  - Passwords
  - Time use
+ 
+ Created with ReactJs, NodeJs and MongoDB.
